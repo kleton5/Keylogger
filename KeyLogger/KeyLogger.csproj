@@ -51,8 +51,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IpInfo.cs" />
+    <Compile Include="Mail.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SnapShot.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
